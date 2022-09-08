@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    background-color: black; 
+    color:white;
+    padding :20px;
+}
+
+li{
+    display: inline-block ;
+    padding-right: 5vw;
+}
+
+.banner{
+    background-image: url("fundo3.png");
+    padding: 150px;
+    color:red;
+    height: 100px;
+}
+
+.content{
+    padding: 50px;
+}
+
+.galeria{
+    padding: 50px;
+}
+.galeria img{
+    height: 250px;
+}
+
+.footer{
+    background-color: gray;
+    color: white;
+    padding: 50px;
+}
